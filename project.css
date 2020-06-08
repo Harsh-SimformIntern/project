@@ -1,12 +1,10 @@
 #magazine-header{
 display: none;
 }
-.enter {
+.enter, .enter-circle{
 display: none;
 }
-.enter-circle{
-display: none;
-}
+
 .controller-magazines .logo-image{
 display: none;
 }
