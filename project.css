@@ -1,7 +1,10 @@
 #magazine-header{
 display: none;
 }
-.controller-magazines .enter-circle{
+.enter {
+display: none;
+}
+.enter-circle{
 display: none;
 }
 .controller-magazines .logo-image{
